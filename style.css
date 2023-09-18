@@ -3,3 +3,12 @@ h1 {
     font-size:50px;
     text-align: center;
 }
+
+.up-text {
+    background-color: #aea800;
+    height: 150px;
+}
+
+h2 {
+    text-align: center;
+}
